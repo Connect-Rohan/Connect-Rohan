@@ -6,10 +6,10 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://tinyurl.com/4a9b9k33)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://about-rohan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Singh-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connect-rohan-singh)
 [![GitHub](https://img.shields.io/badge/GitHub-Connect--Rohan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Connect-Rohan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/0AVH5Urw9f/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/connect-rohan/)
 
 </div>
 
