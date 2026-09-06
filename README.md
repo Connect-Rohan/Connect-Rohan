@@ -152,7 +152,7 @@ open_to:
 
 <div align="center">
 
-<a href="https://tinyurl.com/4a9b9k33">
+<a href="https://about-rohan.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -164,7 +164,7 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/0AVH5Urw9f/">
+<a href="https://leetcode.com/u/connect-rohan">
 <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
